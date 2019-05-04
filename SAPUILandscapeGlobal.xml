@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Landscape version="1" updated="2019-05-04T06:04:16" origin="" generator="RSLSMT">
+   <Includes>
+      <Include url="http://gui.ucc.uwm.edu/sapgui/SAPUILandscape.xml" description="" name="" index="0" />
+   </Includes>
+   <Services>
+   </Services>
+   <Workspaces default="">
+   <Messageservers>
+   </Messageservers>
+   <Routers>
+   </Routers>
+</Landscape>
