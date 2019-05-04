@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <Landscape version="1" updated="2019-05-04T06:04:16" origin="" generator="RSLSMT">
    <Includes>
-	  <Include url="https://drive.google.com/uc?export=view&id=1V2-8JfuhccNT14qUpLhabSca6vYfO2jc" description="Community shared systems" name="Muhammad Ilyas" index="0" />
+	  <Include url="https://raw.githubusercontent.com/babuilyas/sapfever_community_systems/master/Muhammad_Ilyas_Shared_Systems.xml" description="Community shared systems" name="Muhammad Ilyas" index="0" />
    </Includes>
    <Services>
    </Services>
